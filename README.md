@@ -1,0 +1,1 @@
+Se hace pagina web de la formula 1 con todos sus pilotos utilizando flexbox para alinear las cajas de forma que no se superpongan, y se hace vista para cada tipo de dispositivo    
